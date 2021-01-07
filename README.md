@@ -39,3 +39,9 @@ Lets use an example to understand how it works. Consider an example where there 
 ## Start the rabbitmq-consumer application & message received
 
 ![image-text](screenshots/5_rabbitmq_consumer_received_the_message.png)
+
+## Stop RabbitMQ Server on localhost
+
+rabbitmqctl stop
+
+Thank you.
