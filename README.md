@@ -1,6 +1,8 @@
 ## springboot-rabbitmq-producer-consumer
 Test project for demonstrating producer and consumer of messages using RabbitMQ and Sprint Boot
 
+![image-text](screenshots/0_rabbitmq_exchange.png)
+
 ## RabbitMQ Installation in Windows
 
 1.	Download and install ERlang http://erlang.org/download/otp_win64_22.3.exe
